@@ -1,6 +1,6 @@
 # JavaScript Projects
 
-This repository contains three JavaScript projects: Number Counter, Random Number Generator, and a sample website.
+This repository contains JavaScript projects, building on the basics of JavaScript.
 
 ## Project Structure
 
