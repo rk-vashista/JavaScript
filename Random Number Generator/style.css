@@ -1,0 +1,39 @@
+#number{
+    font-size: 50px;
+    font-weight: bold;
+    color: #000000;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+#randButton{
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: #000000;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+#randButton:hover{
+    background-color: #ffffff;
+    color: #000000;
+}
+
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#fromto{
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    cursor: pointer;
+    text-align: center;
+}
